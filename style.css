@@ -1,0 +1,17 @@
+.topMenu {
+  font-family: Futura PT, Lato, Helvetica, Arial, sans-serif;
+  background-color: white;
+  color: #222;
+}
+
+#blueMenu {
+  background-color: #1f5689;
+  color: white;
+  font-size: 12px;
+}
+
+.sideMenu {
+  font-family: Futura PT, Lato, Helvetica, Arial, sans-serif;
+  background-color: white;
+  color: #222;
+}
